@@ -1,4 +1,4 @@
-# Hi there, I'm isiddique2024 👋
+# Hi there, I'm isiddique2024
 
 I'm an application security engineer with a passion for diving deep into the inner workings of software and hardware. My expertise spans from low-level programming to modern DevSecOps practices.
 
@@ -20,7 +20,7 @@ I'm an application security engineer with a passion for diving deep into the inn
 <a href="https://www.keycloak.org/" title="KeyCloak"><img src="https://avatars.githubusercontent.com/u/4921466?s=280&v=4" width="40" height="40"/></a>
 <a href="https://www.owasp.com/" title="OWASP"><img src="https://repository-images.githubusercontent.com/363010961/42a98c00-a969-11eb-946f-2762be8c7d73" width="40" height="40"/></a>
 
-## 💻 About Me
+## About Me
 
 I'm deeply passionate about low-level programming and web application security. There's something incredibly satisfying about understanding how systems work at their core, whether it's:
 
@@ -29,7 +29,7 @@ I'm deeply passionate about low-level programming and web application security. 
 - Reverse engineering binaries and protocols
 - Writing secure, scalable and reliable microservices and web applications while also following OWASP
 
-## 🔒 Security Focused Individual
+## Security Focused Individual
 
 Application security is at the heart of what I do, spanning both traditional on-premises environments and modern cloud infrastructures. My security approach includes:
 
@@ -37,7 +37,7 @@ Application security is at the heart of what I do, spanning both traditional on-
 - Secure coding practices and vulnerability assessments
 - Runtime protection mechanisms and security architecture design
 
-## 🔄 DevSecOps Practices
+## DevSecOps Practices
 
 I believe security must be integrated throughout the development lifecycle, not bolted on at the end. My approach to DevSecOps includes:
 
@@ -45,7 +45,7 @@ I believe security must be integrated throughout the development lifecycle, not 
 - Infrastructure as Code (IaC), Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA) security scanning
 - Container and VM security hardening
 
-## 🚀 Current Projects
+## Current Projects
 
 - Malicious Memory Scanner
 - Vulnerable Kernel Driver Finder
